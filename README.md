@@ -2,6 +2,12 @@
 
 This is a web application that simulates a conversational AI persona of a late aunt using Google's Gemini Pro API. The application stores memories in MongoDB and uses them to generate personalized responses in Hindi with a dehati (rural) tone.
 
+'''
+PORT=3000
+MONGODB_URI=mongodb+srv://yolarop138:bZQEsMbBFDsaQp0y@cluster0.nhfebyf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+GEMINI_API_KEY=AIzaSyC8NasNdjSxTckS1hwkeSPTJMvTwg8YLSo
+'''
+
 ## Features
 
 - Chat interface to interact with the AI aunt
